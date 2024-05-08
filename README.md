@@ -1,4 +1,4 @@
-### 컴공 신입생. 깃허브가 뭔지 알아가는 중
+### 엄
 
 <!--
 **josooa/josooa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
